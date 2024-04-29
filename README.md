@@ -16,7 +16,11 @@
 # Notebooks 
 - [Spotify API ETL](https://github.com/kevinkissinger/isba-4715-project/edit/main/README.md#:~:text=Spotify_API_Analysis.ipynb-,Spotify_API_ETL,-.ipynb)
     Code to gather data from the Spotify API. 
-
+- [Spotify API SQL Analysis](https://github.com/kevinkissinger/isba-4715-project/edit/main/README.md#:~:text=Spotify_API_SQL_Analysis)
+    SQL Analysis of the data gathered from the API. 
 - [EDM Train Web Scrape ETL](https://github.com/kevinkissinger/isba-4715-project/edit/main/README.md#:~:text=EDMTrain_Web_Scrape_ETL)     Code to gather data through web scraping EDM Train. 
 - [EDM Train Web Scrape SQL Analysis](https://github.com/kevinkissinger/isba-4715-project/edit/main/README.md#:~:text=EDMTrain_Web_Scrape_SQL_Analysis)
     SQL Analysis of the data gathered from the web scrape.
+
+# Future Improvements
+- If I had more time, I would improve this project by increasing the scope to more than just Los Angeles. I would web scrape EDM Train for other cities as well. 
